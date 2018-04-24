@@ -12,20 +12,24 @@ Even though this is a very extensible example, it's called Smart Library for a r
 
 Home Page
 
-![Add Homepage](https://github.com/rajakedia1/SmartLibraryFinal/blob/master/img/home.png)
+![Add Homepage](https://github.com/rajakedia1/Lib/blob/master/img/home.png)
 
 Book Page
 
-![Add Bookpage](https://github.com/rajakedia1/SmartLibraryFinal/blob/master/img/book.png)
+![Add Bookpage](https://github.com/rajakedia1/Lib/blob/master/img/book.png)
 
 Author Page
 
-![Add Authorpage](https://github.com/rajakedia1/SmartLibraryFinal/blob/master/img/author.png)
+![Add Authorpage](https://github.com/rajakedia1/Lib/blob/master/img/author.png)
 
 Borrowed Book page
 
-![Add Borrowedpage](https://github.com/rajakedia1/SmartLibraryFinal/blob/master/img/borrowed.png)
+![Add Borrowedpage](https://github.com/rajakedia1/Lib/blob/master/img/borrowed.png)
 
 Book Detail Page
 
-![Add Borrowedpage](https://github.com/rajakedia1/SmartLibraryFinal/blob/master/img/bookdetail.png)
+![Add Borrowedpage](https://github.com/rajakedia1/Lib/blob/master/img/bookdetail.png)
+
+Author Detail Page
+
+![Add Borrowedpage](https://github.com/rajakedia1/Lib/blob/master/img/authordetail.png)
